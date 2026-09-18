@@ -9,7 +9,7 @@ https://drive.google.com/file/d/1-nrZ_5XuP4Gsq8d26M933SWBmXBIClSf/view
 Why downloading android x86 on computer? is because you got tired of buying a phone every 2-4 years to get updates on android. 
 # Português (Brasil):
 Estas são as modificações para a versão mais recente do projeto de código aberto Android-x86 9.0, que não recebe mais atualizações.
-Para uso geral do Android-x86 em computadores com o superusuário desativado (root removido), faça o download neste link:
+Para uso geral do Android-x86 em computadores com o superusuário desativado (root removido), faça o download neste link: https://drive.google.com/file/d/1-nrZ_5XuP4Gsq8d26M933SWBmXBIClSf/view
 
 # Para baixar o Android-x86 com modificações (como webcam interna desativada em notebooks específicos — funcionando apenas via USB — ou outras alterações), acesse a página de Releases (Lançamentos).
 
